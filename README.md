@@ -1,1 +1,1 @@
-#This is the BMI calculator read me
+#This is a simple BMI calculator that tells you your BMI and the classification of that BMI.#
